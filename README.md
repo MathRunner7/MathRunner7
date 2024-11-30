@@ -25,8 +25,11 @@ A self-taught Python developer and Machine Learning Engineer from India 🇮🇳
 <br/ >
 <br/ >
 
-| <a href="https://github.com/mathrunner7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mathrunner7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ankit's github stats" /></a> | <a href="https://github.com/mathrunner7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrunner7&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+| <a href="https://github.com/MathRunner7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MathRunner7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/MathRunner7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRunner7&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
 
 #### Top Repositories
 
