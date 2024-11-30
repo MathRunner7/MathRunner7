@@ -1,7 +1,6 @@
 <p align="center"><a href="https://github.com/MathRunner7"><img width="80%" alt="Hello, I'm Ankit Thummar A transformed Data Scientist!" src="./assets/readme_name.png" /></a></p>
 
-<br />
-
+# About Me
 Hi there! 👋 I'm a self-taught Python developer and Machine Learning enthusiast from India. With over 11 years of experience in the chemical manufacturing sector, I have recently transitioned into the exciting field of Data Science and Machine Learning. I'm passionate about leveraging data-driven insights and predictive models to solve real-world problems and drive meaningful impact.
 
 🎯 Goal: Collaborating on impactful projects and contributing to open-source initiatives in data science
