@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/MathRunner7"><img width="80%" alt="Hello, I'm Ankit Thummar A transformed Data Scientist!" src="./assets/WWEY5163.PNG" /></a></p>
+<p align="center"><a href="https://github.com/MathRunner7"><img width="80%" alt="Hello, I'm Ankit Thummar A transformed Data Scientist!" src="./assets/readme_name.png" /></a></p>
 
 <br />
 
