@@ -20,7 +20,9 @@ Hi there! 👋 I'm a self-taught Python developer and Machine Learning enthusias
 <img align="left" alt="Tableau" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Tableau_Software_Logo_Small.png" />
 </br>
 </br>
-💬 Ask me about Machine Learning and Statistical Analysis [here](https://github.com/MathRunner7) 
+
+💬 Ask me about Machine Learning and Statistical Analysis [here](https://github.com/MathRunner7)
+
 </br>
 
 | <a href="https://github.com/MathRunner7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MathRunner7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/MathRunner7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRunner7&layout=compact&theme=buefy&hide_border=true" /></a> |
