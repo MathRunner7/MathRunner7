@@ -6,17 +6,19 @@ A self-taught Python developer and Machine Learning Engineer from India 🇮🇳
 
 **About me**
 
-- 💼 Data Scientist Freelancer
+- 💼 Freelancer Data Scientist 
 
-- ❤️ I love writing Python codes
+- ❤️ I love writing Python codes and creating graphics in Blender
 
 - 💬 Ask me about Machine Learning and Statistical Analysis [here](https://github.com/MathRunner7)
 
+- My Skills
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="SQL" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg"/>
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/>
 <img align="left" alt="VS Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
-<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Blender" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />
 <img align="left" alt="Excel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg"/>
 <img align="left" alt="Tableau" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Tableau_Software_Logo_Small.png" />
 <br/ >
