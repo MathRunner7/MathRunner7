@@ -1,5 +1,4 @@
 <p align="center"><a href="https://github.com/MathRunner7"><img width="80%" alt="Hello, I'm Ankit Thummar A transformed Data Scientist!" src="./assets/readme_name.png" /></a></p>
-
 <div align="center">
   <img align="center" alt="Python" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
   <img align="center" alt="SQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg"/>
