@@ -1,24 +1,22 @@
 <p align="center"><a href="https://github.com/MathRunner7"><img width="80%" alt="Hello, I'm Ankit Thummar A transformed Data Scientist!" src="./assets/readme_name.png" /></a></p>
 
+<div align="center">
+  <img align="center" alt="Python" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+  <img align="center" alt="SQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg"/>
+  <img align="center" alt="PyCharm" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/>
+  <img align="center" alt="VS Code" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
+  <img align="center" alt="GitHub" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+  <img align="center" alt="Blender" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />
+  <img align="center" alt="Excel" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg"/>
+  <img align="center" alt="Tableau" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Tableau_Software_Logo_Small.png" />
+</div>
+
 # About Me
 Hi there! 👋 I'm a self-taught Python developer and Machine Learning enthusiast from India. With over 11 years of experience in the chemical manufacturing sector, I have recently transitioned into the exciting field of Data Science and Machine Learning. I'm passionate about leveraging data-driven insights and predictive models to solve real-world problems and drive meaningful impact.
 
 🎯 Goal: Collaborating on impactful projects and contributing to open-source initiatives in data science
 
 💡 I also create 3D graphics in Blender in my spare time
-
-👨‍💻 Skills
-
-<img align="left" alt="Python" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg"/>
-<img align="left" alt="PyCharm" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/>
-<img align="left" alt="VS Code" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
-<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Blender" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />
-<img align="left" alt="Excel" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg"/>
-<img align="left" alt="Tableau" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Tableau_Software_Logo_Small.png" />
-</br>
-</br>
 
 💬 Ask me about Machine Learning and Statistical Analysis [here](https://github.com/MathRunner7)
 
