@@ -34,14 +34,14 @@ Hi there! 👋 I'm a self-taught Python developer and Machine Learning enthusias
 
 ## 📊 GitHub Stats
 
-| <a href="https://github.com/MathRunner7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MathRunner7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/MathRunner7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRunner7&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/MathRunner7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MathRunner7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ankit's github stats" /></a> | <a href="https://github.com/MathRunner7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRunner7&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=mathrunner7&theme=light&border=border&animated=true)
-
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/mathrunner7?theme=light&font=ABeeZee&ext=heatmap) | ![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=mathrunner7&theme=light&border=border&animated=true) |
+|---------|---------|
 
 ## Top Repositories
 
