@@ -50,7 +50,7 @@ Hi there! 👋 I'm a self-taught Python developer and Machine Learning enthusias
 
 ## 📊 GitHub Stats
 
-| ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathRunner7&show_icons=true&theme=transparent) | [![GitHub Streak](https://streak-stats.demolab.com/?user=MathRunner7)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathRunner7&layout=donut)|
+| ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathRunner7&show_icons=true&theme=transparent) | [![GitHub Streak](https://streak-stats.demolab.com/?user=MathRunner7)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathRunner7&layout=donut)|
 |------|------|------|
 
 ## 📊 LeetCode Stats
