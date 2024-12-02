@@ -10,6 +10,21 @@
   <img align="center" alt="Tableau" height="50px" src="https://www.svgrepo.com/download/354428/tableau-icon.svg" />
 </div>
 
+</br>
+</br>
+
+<div align="center">
+  <img align="center" alt="Docker" height="40px" src="/assets/Docker.svg"/>
+  <img align="center" alt="Flask" height="40px" src="/assets/Flask.svg"/>
+  <img align="center" alt="NumPy" height="40px" src="/assets/NumPy_name.svg"/>
+  <img align="center" alt="Pandas" height="40px" src="/assets/Pandas_name.svg"/>
+  <img align="center" alt="Scikit-learn" height="40px" src="/assets/scikit-learn.svg"/>
+  <img align="center" alt="SciPy" height="40px" src="/assets/SciPy.svg"/>
+  <img align="center" alt="matplotlin" height="40px" src="/assets/matplotlib.svg"/>
+  <img align="center" alt="Seaborn" height="40px" src="/assets/Seaborn_name.svg"/>
+  <img align="center" alt="Plotly" height="40px" src="/assets/Plotly_name.png"/>
+</div>
+
 # About Me
 
 Hi there! 👋 I'm a self-taught Python developer and Machine Learning enthusiast from India. With over 11 years of experience in the chemical manufacturing sector, I have recently transitioned into the exciting field of Data Science and Machine Learning. I'm passionate about leveraging data-driven insights and predictive models to solve real-world problems and drive meaningful impact.
