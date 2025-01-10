@@ -25,8 +25,8 @@
   <img align="center" alt="SciPy" height="40px" src="/assets/SciPy.svg"/>
   <img align="center" alt="matplotlin" height="40px" src="/assets/matplotlib.svg"/>
   <img align="center" alt="Seaborn" height="40px" src="/assets/Seaborn_name.svg"/>
-  <img align="center" alt="Plotly" height="40px" src="/assets/Plotly_name.png"/>
   <img align="center" alt="PyTest" height="40px" src="/assets/pytest.svg"/>
+  <img align="center" alt="Plotly" height="40px" src="/assets/Plotly_name.png"/>
 </div>
 
 # About Me
