@@ -2,6 +2,9 @@
 <div align="center">
   <img align="center" alt="Python" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
   <img align="center" alt="SQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg"/>
+  <img align="center" alt="AWS" height="50px" src="/assets/aws.svg"/>
+  <img align="center" alt="Azure" height="50px" src="/assets/azure.svg"/>
+  <img align="center" alt="MongoDB" height="50px" src="/assets/mongodb.svg"/>
   <img align="center" alt="PyCharm" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/>
   <img align="center" alt="VS Code" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
   <img align="center" alt="GitHub" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
@@ -23,6 +26,7 @@
   <img align="center" alt="matplotlin" height="40px" src="/assets/matplotlib.svg"/>
   <img align="center" alt="Seaborn" height="40px" src="/assets/Seaborn_name.svg"/>
   <img align="center" alt="Plotly" height="40px" src="/assets/Plotly_name.png"/>
+  <img align="center" alt="PyTest" height="40px" src="/assets/pytest.svg"/>
 </div>
 
 # About Me
