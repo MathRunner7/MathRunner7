@@ -9,7 +9,6 @@
   <img align="center" alt="VS Code" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
   <img align="center" alt="GitHub" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
   <img align="center" alt="Blender" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />
-  <img align="center" alt="Excel" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg"/>
   <img align="center" alt="Tableau" height="50px" src="https://www.svgrepo.com/download/354428/tableau-icon.svg" />
 </div>
 
