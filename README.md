@@ -59,9 +59,6 @@ Hi there! 👋 I'm a self-taught Python developer and Machine Learning enthusias
 
 ## Top Repositories
 
-<a href="https://github.com/mathrunner7/ZeeRecommender">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathrunner7&repo=ZeeRecommender&theme=buefy" />
-</a>
 <!---
 MathRunner7/MathRunner7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
